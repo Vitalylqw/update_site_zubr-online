@@ -4,9 +4,9 @@ import pymysql
 # Основные данные для работы с базами данных
 # SQL_LITE_STR = r'C:\Users\vital\AppData\Roaming\MKS\data.sqlite'
 SQL_LITE_STR = 'data.sqlite'
-MY_SQL_IP  = '185.219.40.60'
-MY_SQL_USER = 'instrumentoz'
-MY_SQL_PASS = 'aqgj~ztb48Q9'
+MY_SQL_IP  = '********'
+MY_SQL_USER = '********'
+MY_SQL_PASS = '********'
 MY_SQL_DB_TEST = 'test_imp'
 MY_SQL_DB_WORK = 'instrumentoz_zubr'
 
